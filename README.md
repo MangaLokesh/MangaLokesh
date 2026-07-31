@@ -56,5 +56,5 @@ I regularly use GitHub to build, experiment and improve my projects.
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+💼 [LinkedIn](https://www.linkedin.com/in/manga-lokesh-745285303/)
+📧 [Email Me](mailto:mangalokesh2@gmail.com)
