@@ -1,1 +1,60 @@
-# Manga_Lokesh
+# Hi, I'm Manga Lokesh 👋
+
+### B.Tech CSE Student | Frontend & Backend Developer
+
+I’m a Computer Science student passionate about building practical
+web applications and solving real-world problems through technology.
+
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science Engineering — 2027
+- 💻 Interested in Frontend & Backend Development
+- 🌱 Currently improving JavaScript, Vue.js and Django
+- 🔨 Building real-world web applications
+- 📚 Preparing for software development opportunities
+
+## 🛠️ Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • Vue.js
+
+### Backend
+Python • Django • Django REST Framework
+
+### Database
+SQL • SQLite • MySQL
+
+### Tools
+Git • GitHub • VS Code
+
+## 🚀 Featured Projects
+
+### 📝 Complaint Management System
+Django-based complaint management platform with authentication,
+role-based access and REST APIs.
+
+**Tech:** Django • DRF • SQLite • HTML • CSS • JavaScript
+
+### 🧠 Brain Tumor Detection
+Deep-learning based MRI classification system using EfficientNetV2.
+
+**Tech:** Python • PyTorch • EfficientNetV2
+
+### 🛒 ShopVue E-Commerce Frontend
+Responsive e-commerce frontend built with modern frontend technologies.
+
+**Tech:** Vue.js • HTML • CSS • JavaScript
+
+### 🎬 Netflix Clone
+Responsive Netflix-inspired login interface.
+
+**Tech:** HTML • CSS
+
+## 📊 GitHub
+
+I regularly use GitHub to build, experiment and improve my projects.
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN
+- Email: YOUR_EMAIL
