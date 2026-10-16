@@ -9,14 +9,14 @@ web applications and solving real-world problems through technology.
 
 - 🎓 B.Tech Computer Science Engineering — 2027
 - 💻 Interested in Frontend & Backend Development
-- 🌱 Currently improving JavaScript, Vue.js and Django
+- 🌱 Currently improving JavaScript, React.js and Django
 - 🔨 Building real-world web applications
 - 📚 Preparing for software development opportunities
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-HTML • CSS • JavaScript • Vue.js
+HTML • CSS • JavaScript • React.js
 
 ### Backend
 Python • Django • Django REST Framework
@@ -39,11 +39,6 @@ role-based access and REST APIs.
 Deep-learning based MRI classification system using EfficientNetV2.
 
 **Tech:** Python • PyTorch • EfficientNetV2
-
-### 🛒 ShopVue E-Commerce Frontend
-Responsive e-commerce frontend built with modern frontend technologies.
-
-**Tech:** Vue.js • HTML • CSS • JavaScript
 
 ### 🎬 Netflix Clone
 Responsive Netflix-inspired login interface.
