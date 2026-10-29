@@ -70,14 +70,6 @@ A responsive recreation of the Netflix login page using HTML and CSS.
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MangaLokesh&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MangaLokesh&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 🤝 Connect With Me
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/lokesh-manga-745285303/)
