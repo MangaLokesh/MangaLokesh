@@ -72,7 +72,7 @@ A responsive recreation of the Netflix login page using HTML and CSS.
 
 ### 🤝 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/lokesh-manga-745285303/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/mangalokesh/)
 - 🐙 GitHub: [@MangaLokesh](https://github.com/MangaLokesh)
 
 ---
