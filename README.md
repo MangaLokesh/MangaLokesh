@@ -1,13 +1,13 @@
 # Hi, I'm Manga Lokesh 👋
 
-### 💻 Aspiring Frontend Developer | B.Tech CSE Student | Full-Stack Developer in Progress
+### 💻 Aspiring Software Developer | B.Tech CSE Student | Full-Stack Developer in Progress
 
 I'm a Computer Science and Engineering student passionate about building responsive, user-friendly web applications. I enjoy learning new technologies, solving problems, and turning ideas into practical projects.
 
 - 🎓 Currently pursuing B.Tech in Computer Science and Engineering
 - 💻 Interested in Frontend Development and Full-Stack Development
-- 🌱 Currently improving my skills in React.js and modern web development
-- 🚀 Building projects using React, Vue.js, JavaScript, Python, and Django
+- 🌱 Currently improving my skills in Vue.js and modern web development
+- 🚀 Building projects using Vue.js, JavaScript, Python, and Django
 - 🎯 Looking for entry-level opportunities and internships in software development
 - 📍 Based in India
 
@@ -33,24 +33,13 @@ I'm a Computer Science and Engineering student passionate about building respons
 - Git
 - GitHub
 - VS Code
-- Vite
 - Postman
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 1. Job Application Tracker
-A React-based application to manage and track job applications in one place.
-
-- Add and manage job application details
-- Track application statuses
-- Store application data using browser local storage
-- Built with React.js, JavaScript, CSS, and Vite
-
-🔗 **Repository:** [Job Application Tracker](https://github.com/MangaLokesh)
-
-#### 2. Complaint Management System
+#### 1. Complaint Management System
 A Django-based web application that allows users to submit complaints and administrators to manage and resolve them.
 
 - User registration and login
@@ -61,7 +50,7 @@ A Django-based web application that allows users to submit complaints and admini
 
 🔗 **Repository:** [Complaint Management System](https://github.com/MangaLokesh/Complaint_Management_System)
 
-#### 3. ShopVue – E-commerce Frontend
+#### 2. ShopVue – E-commerce Frontend
 A Vue.js e-commerce frontend that displays products and provides a shopping cart experience.
 
 - Product listing and product details
@@ -72,7 +61,7 @@ A Vue.js e-commerce frontend that displays products and provides a shopping cart
 
 🔗 **Repository:** [ShopVue E-commerce Frontend](https://github.com/MangaLokesh/ShopVue_E-Commerce_Frontend)
 
-#### 4. Netflix Login Page Clone
+#### 3. Netflix Login Page Clone
 A responsive recreation of the Netflix login page using HTML and CSS.
 
 - Responsive page layout
