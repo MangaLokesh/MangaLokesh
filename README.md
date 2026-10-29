@@ -74,6 +74,7 @@ A responsive recreation of the Netflix login page using HTML and CSS.
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/mangalokesh/)
 - 🐙 GitHub: [@MangaLokesh](https://github.com/MangaLokesh)
+- 🌐 Portfolio:(https://mangalokesh.vercel.app/)
 
 ---
 
