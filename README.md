@@ -16,10 +16,10 @@ web applications and solving real-world problems through technology.
 ## 🛠️ Tech Stack
 
 ### Frontend
-HTML • CSS • JavaScript • React.js
+HTML • CSS • JavaScript • Vue.js
 
 ### Backend
-Python • Django • Django REST Framework
+Python • Django 
 
 ### Database
 SQL • SQLite • MySQL
