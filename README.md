@@ -27,13 +27,11 @@ I'm a Computer Science and Engineering student passionate about building respons
 
 **Database**
 - MySQL
-- SQLite
 
 **Tools**
 - Git
 - GitHub
 - VS Code
-- Postman
 
 ---
 
